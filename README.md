@@ -160,10 +160,10 @@ Frontend is intentionally minimal — focus is on backend system design.
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Incident Detail
-![Incident](screenshots/incident.png)
+![Incident](Screenshots/incident.png)
 
 ### API Docs
-![API](screenshots/api.png)
+![API](Screenshots/api.png)
