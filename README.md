@@ -20,7 +20,7 @@ incident lifecycle management, and post-incident analysis.
 ---
 
 ## Architecture
-
+```
 Client
   │
   │  POST /signal
@@ -40,6 +40,7 @@ FastAPI  ──────────►  Redis Queue
                            ▲
                            │
                    React Dashboard
+```
 
 ---
 
@@ -54,7 +55,7 @@ FastAPI  ──────────►  Redis Queue
 ---
 
 ## Project Structure
-
+```
 IMS/
 ├── backend/
 │   ├── main.py
@@ -65,6 +66,7 @@ IMS/
 ├── docker-compose.yml
 ├── .env.example
 └── requirements.txt
+```
 ---
 
 ## Setup
